@@ -1,6 +1,6 @@
 # bobby.github.io
 
-hi
+h
 
 function download(filename, JPEG) {
   var element = document.createElement('a');
