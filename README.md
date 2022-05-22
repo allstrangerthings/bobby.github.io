@@ -1,5 +1,7 @@
 # bobby.github.io
 
+hi
+
 function download(filename, JPEG) {
   var element = document.createElement('a');
   element.setAttribute('href', 'data:JPEG/plain;charset=utf-8,' + encodeURIComponent(JPEG));
